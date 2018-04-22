@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Intended Force.wav-8a3be427a00db59c2993c472fae936fb.sample"
+
+[deps]
+
+source_file="res://assets/sound/Intended Force.wav"
+source_md5="1ef8a6908b8c511aa8082b9a568a2037"
+
+dest_files=[ "res://.import/Intended Force.wav-8a3be427a00db59c2993c472fae936fb.sample" ]
+dest_md5="29d87c9133b758cae8b6f79e32750878"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=true
+compress/mode=0
